@@ -6,6 +6,7 @@ To be able to test these algorithms by yourself, you should install the [MIT Dee
 ```sh
 pip install mitdeeplearning
 
+
 To run these notebooks correclty, you should copy this code and paste it in the Google Colab notebook used connected to the course's Github, which we can access with the following link:
 
  <td align="center"><a target="_blank" href="https://colab.research.google.com/github/aamini/introtodeeplearning/blob/2023/lab1/Part2_Music_Generation.ipynb
