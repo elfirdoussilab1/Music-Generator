@@ -8,7 +8,3 @@ To be able to test these algorithms by yourself, you should install the [MIT Dee
 
 ```sh
 pip install mitdeeplearning
-
-
-
- 
